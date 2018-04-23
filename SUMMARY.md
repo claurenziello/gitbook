@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* TestPage2
+* [TestPage2](testpage2/README.md)
   * SubPage
 
