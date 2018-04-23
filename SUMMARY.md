@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 * [TestPage2](testpage2/README.md)
-  * SubPage
+  * [SubPage](testpage2/subpage.md)
 
