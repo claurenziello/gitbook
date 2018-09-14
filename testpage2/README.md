@@ -1,4 +1,3 @@
 # TestPage2
-
-Install some page 
+Installazione pagina
 test
