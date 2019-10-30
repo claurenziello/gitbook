@@ -1,4 +1,4 @@
 # Pagina Iniziale
 
-Questa è una pagina di test, proviamo a fare una modifica. Da qui
+Questa è una pagina di test, proviamo a fare una modifica.
 
